@@ -1,0 +1,10 @@
+Database connection for Login System
+
+- Database name: login_system_db
+- Table: users
+- Fields: id, username, email, password_hash
+
+Steps to connect:
+1. Open a connection to login_system_db.
+2. Use users table to check login information.
+3. Close the connection after each request.
